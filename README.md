@@ -7,7 +7,7 @@
 🚀 Dive into my work: [Portfolio](https://your-portfolio-link.com)
 
 🎓 Final Year B.Tech Information Technology student at PSNA College of Engineering and Technology  
-📊 CGPA: 8.76 | Passionate about building secure and dynamic web applications
+📊 CGPA: 8.96 | Passionate about building secure and dynamic web applications
 
 🔐 Open to collaborating on:
 - Web Security Implementations
